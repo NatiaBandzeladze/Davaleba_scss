@@ -3,7 +3,8 @@ body {
   body header .menu {
     background-color: slategray; }
     body header .menu .logo {
-      height: 60px; }
+      height: 60px;
+      margin-top: 20px; }
     body header .menu .navbar {
       height: 70px;
       margin-top: 30px; }
